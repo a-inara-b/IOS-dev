@@ -7,7 +7,7 @@
 
 import Foundation
 
-//print("Hello, World!")
+//print("Hello, World!")a
 
 var firstName: String = "Inara"
 var lastName: String = "Almagambetova"
