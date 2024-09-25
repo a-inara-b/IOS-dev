@@ -232,6 +232,7 @@ while true {
     }
 }
 
+
 //10
 func hasUniqueCharacters(_ text: String) -> Bool {
     var charSet: Set<Character> = []
